@@ -3,8 +3,8 @@ _TBD_
 
 ### Projects
 Pet projects:
-* https://mine.aloy.xyz -- TBD [Flask + Vue]. I'm so embarrassed, but 2-3 years ago I did [it](https://github.com/mnogom/minesweeper). I'll rewrite it.
-* https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ -- TBD [Flask + Vue]
+* https://mine.aloy.xyz - TBD [Flask + Vue]. I'm so embarrassed, but 2-3 years ago I did [it](https://github.com/mnogom/minesweeper). I'll rewrite it.
+* https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ - TBD [Flask + Vue]
 
 Cheat sheets:
 * https://github.com/mnogom/_empty - Junior cheat sheet for fullstack project
