@@ -6,12 +6,12 @@ Pet projects:
 * https://mine.aloy.xyz -- TBD [Flask + Vue]
 * https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ -- TBD [Flask + Vue]
 
+Cheat sheets:
+* https://github.com/mnogom/_empty - Junior cheat sheet for fullstack project
+
 Test projects:
 * https://github.com/mnogom/dropit - Console utility to get/put file from Dropbox with using only official Dropbox API
 * https://github.com/mnogom/polling - API to make poles
-
-Cheat sheets:
-* https://github.com/mnogom/_empty - Junior cheat sheet for fullstack project
 
 Educational projects:
 * https://github.com/mnogom/python-project-lvl1 - Console text games: even, calc, GCD, progression, prime
