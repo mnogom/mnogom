@@ -2,6 +2,10 @@
 _TBD_
 
 ### Projects
+Pet projects:
+* https://mine.aloy.xyz -- TBD
+* https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ -- TBD
+
 Test projects:
 * https://github.com/mnogom/dropit - Console utility to get/put file from Dropbox with using only official Dropbox API
 * https://github.com/mnogom/polling - API to make poles
