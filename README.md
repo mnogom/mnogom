@@ -10,7 +10,7 @@ Cheat sheets:
 * https://github.com/mnogom/_empty - Junior cheat sheet for fullstack project
 
 Test projects:
-* https://github.com/mnogom/dropit - Console utility to get/put file from Dropbox with using only official Dropbox API
+* https://github.com/mnogom/dropit - Console utility to get/put file from/to Dropbox with using only official Dropbox API
 * https://github.com/mnogom/polling - API to make poles
 
 Educational projects:
