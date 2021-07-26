@@ -19,6 +19,9 @@ Educational projects:
 * https://github.com/mnogom/python-project-lvl3 - Console utility to download page with assets
 
 
+### Contacts
+telegram: @mnogo_m
+e-mail: freidlinks@ya.ru / konstantin.freidlin@aloy.xyz
 
 
 <!--
