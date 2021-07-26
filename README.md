@@ -3,8 +3,8 @@ _TBD_
 
 ### Projects
 Pet projects:
-* https://mine.aloy.xyz -- TBD
-* https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ -- TBD
+* https://mine.aloy.xyz -- TBD [Flask + Vue]
+* https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ -- TBD [Flask + Vue]
 
 Test projects:
 * https://github.com/mnogom/dropit - Console utility to get/put file from Dropbox with using only official Dropbox API
