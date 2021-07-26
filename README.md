@@ -20,8 +20,8 @@ Educational projects:
 
 
 ### Contacts
-telegram: @mnogo_m
-e-mail: freidlinks@ya.ru / konstantin.freidlin@aloy.xyz
+* telegram: @mnogo_m
+* e-mail: freidlinks@ya.ru / konstantin.freidlin@aloy.xyz
 
 
 <!--
