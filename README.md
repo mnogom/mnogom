@@ -18,7 +18,7 @@ Educational projects:
 * https://github.com/mnogom/python-project-lvl2 - Console utility to find difference between two trees in JSON or YAML format
 * https://github.com/mnogom/python-project-lvl3 - Console utility to download page with assets
 
-Snippets:
+### Snippets:
 * [Middleware for Django to apply to request/response unique id and trace through selected apps](https://github.com/mnogom/_empty/blob/bba1c47c8ac0e5c6a603966e9d121e4815b31595/backend/backend/backend/middleware/trace_middleware.py)
 * [Decorator to edit HTTP methods of views by predicate rule](https://github.com/mnogom/_empty/blob/f1f615df5a2e3a96c17b13acb3d4370bfe988c0a/backend/backend/memo_api/views.py#L24)
 
