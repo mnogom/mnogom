@@ -3,7 +3,7 @@ _TBD_
 
 ### Projects
 Pet projects:
-* https://mine.aloy.xyz - TBD [Flask + Vue]. I'm so embarrassed, but 2-3 years ago I did [it](https://github.com/mnogom/minesweeper). I'll rewrite it.
+* https://mine.aloy.xyz - TBD [Flask + Vue]. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). I'll rewrite it.
 * https://project.aloy.xyz/p/Aloy_Main_Theme_Final/ - TBD [Flask + Vue]
 
 Cheat sheets:
