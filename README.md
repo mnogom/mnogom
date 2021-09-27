@@ -10,8 +10,8 @@ Cheat sheets:
 * https://github.com/mnogom/_empty - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
 
 Test projects:
-* https://github.com/mnogom/dropit - Console utility to get/put file from/to Dropbox with using only official Dropbox API
-* https://github.com/mnogom/polling - API to make poles
+* https://github.com/mnogom/dropit - Console utility to get/put file from/to Dropbox with using only official Dropbox API [Python]
+* https://github.com/mnogom/polling - API to make poles [DRF]
 
 Educational projects:
 * https://github.com/mnogom/python-project-lvl1 - Console text games: even, calc, GCD, progression, prime
