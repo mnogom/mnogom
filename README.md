@@ -12,6 +12,7 @@ Cheat sheets:
 Test projects:
 * https://github.com/mnogom/dropit - Console utility to get/put file from/to Dropbox with using only official Dropbox API [Python]
 * https://github.com/mnogom/polling - API to make poles [DRF]
+* https://github.com/mnogom/pathfinder - Console utility to find path on RGB image
 
 Educational projects:
 * https://github.com/mnogom/python-project-lvl1 - Console text games: even, calc, GCD, progression, prime
