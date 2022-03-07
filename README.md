@@ -12,7 +12,7 @@ _TBD_
 ### 🧷 Test projects:
 * [DropIt](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API [Python]
 * [Polling](https://github.com/mnogom/polling) - API to make poles [DRF]
-* [PathFinder](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image
+* [PathFinder](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image [Python]
 
 ### 🎓 Educational projects:
 * [Brain Games](https://github.com/mnogom/python-project-lvl1) - Console text games: even, calc, GCD, progression, prime [Python]
@@ -21,7 +21,7 @@ _TBD_
 * [Task Manager](https://github.com/mnogom/python-project-lvl4) - Task manager (build with DJANGO) [Django]
 
 ### 📄 Snippets:
-* [Middleware](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py) for Django to apply to request/response unique id and trace through selected apps - refactoring required
+* [Middleware](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py) for Django to apply to request/response unique id and trace through selected apps - refactoring required [Django]
 
 ### 📇 Contacts
 * telegram: [@mnogo_m](https://t.me/mnogo_m)
