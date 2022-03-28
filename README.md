@@ -3,7 +3,7 @@ _TBD_
 
 ### 😽 Pet projects:
 * [Minesweeper](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). I'll rewrite it. [Flask + Vue]
-* [Project scenes](http://dev.project.aloy.xyz) - TBD [Django + Vue]
+* [Project scenes](https://scene.aloy.xyz/) - Project that can help you interactively create light scenarios [Django + Vue]
 * [Beag](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server. TBD: run commands throught SSH. [Python]
 
 ### 📓 Cheat sheets:
