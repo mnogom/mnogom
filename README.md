@@ -2,26 +2,26 @@
 _TBD_
 
 ### 😽 Pet projects:
-* [Minesweeper](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). I'll rewrite it. [Flask + Vue]
-* [Project scenes](https://scene.aloy.xyz/) - Project that can help you interactively create light scenarios [Django + Vue]
-* [Beag](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server. TBD: run commands throught SSH. [Python]
+* [Minesweeper \[ Flask, Vue \]](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). I'll rewrite it.
+* [Project scenes \[ Django, Vue \]](https://scene.aloy.xyz/) - Project that can help you interactively create and show light scenarios
+* [Beag \[ Django \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server. TBD: run commands throught SSH.
 
 ### 📓 Cheat sheets:
 * [_empty](https://github.com/mnogom/_empty) - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
 
 ### 🧷 Test projects:
-* [DropIt](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API [Python]
-* [Polling](https://github.com/mnogom/polling) - API to make poles [DRF]
-* [PathFinder](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image [Python]
+* [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
+* [Polling \[ DRF \]](https://github.com/mnogom/polling) - API to make poles
+* [PathFinder \[ Python \]](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image
 
 ### 🎓 Educational projects:
-* [Brain Games](https://github.com/mnogom/python-project-lvl1) - Console text games: even, calc, GCD, progression, prime [Python]
-* [Difference generator](https://github.com/mnogom/python-project-lvl2) - Console utility to find difference between two trees in JSON or YAML format [Python]
-* [Page loader](https://github.com/mnogom/python-project-lvl3) - Console utility to download page with assets [Python]
-* [Task Manager](https://github.com/mnogom/python-project-lvl4) - Task manager (build with DJANGO) [Django]
+* Brain Games \[ [Python](https://github.com/mnogom/python-project-lvl1) / [JavaScript](https://github.com/mnogom/frontend-project-lvl1) \] - Console text games: even, calc, GCD, progression, prime
+* [Difference generator \[ Python \]](https://github.com/mnogom/python-project-lvl2) - Console utility to find difference between two trees in JSON or YAML format
+* [Page loader \[ Python \]](https://github.com/mnogom/python-project-lvl3) - Console utility to download page with assets
+* [Task Manager \[ Django \]](https://github.com/mnogom/python-project-lvl4) - Task manager (build with DJANGO)
 
 ### 📄 Snippets:
-* [Middleware](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py) for Django to apply to request/response unique id and trace through selected apps - refactoring required [Django]
+* [Middleware \[ Django \]](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py) for Django to apply to request/response unique id and trace through selected apps - refactoring required
 
 ### 📇 Contacts
 * telegram: [@mnogo_m](https://t.me/mnogo_m)
