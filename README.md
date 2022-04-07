@@ -4,7 +4,7 @@ _TBD_
 ### 😽 Pet projects:
 * [Minesweeper \[ Flask, Vue \]](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). I'll rewrite it.
 * [Project scenes \[ Django, Vue \]](https://scene.aloy.xyz/) - Project that can help you interactively create and show light scenarios
-* [Beag \[ Django \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server. TBD: run commands throught SSH.
+* [Beag \[ Python \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server. TBD: run commands throught SSH.
 
 ### 📓 Cheat sheets:
 * [_empty](https://github.com/mnogom/_empty) - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
