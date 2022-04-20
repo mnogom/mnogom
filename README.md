@@ -23,6 +23,9 @@ _TBD_
 ### 📄 Snippets:
 * [Middleware \[ Django \]](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py)  to apply to request/response unique id and trace through selected apps - refactoring required
 
+### Offtopic:
+* [Minesweeper in Overwatch](https://github.com/mnogom/overwatch-minesweeper) - The game in the game
+
 ### 📇 Contacts
 * telegram: [@mnogo_m](https://t.me/mnogo_m)
 * e-mail: freidlinks@ya.ru | konstantin.freidlin@aloy.xyz
