@@ -1,6 +1,3 @@
-### Description
-_TBD_
-
 ### 😽 Pet projects:
 * [Minesweeper \[ Flask, Vue \]](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). My first web project. I'll rewrite it.
 * [Project scenes \[ Django, Vue \]](https://scene.aloy.xyz/) - Project that can help you interactively create and show light scenarios
@@ -29,19 +26,3 @@ _TBD_
 ### 📇 Contacts
 * telegram: [@mnogo_m](https://t.me/mnogo_m)
 * e-mail: freidlinks@ya.ru | konstantin.freidlin@aloy.xyz
-
-
-<!--
-**mnogom/mnogom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
