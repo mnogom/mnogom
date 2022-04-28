@@ -8,7 +8,7 @@
 
 ### 🧷 Test projects:
 * [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
-* [Polling \[ DRF \]](https://github.com/mnogom/polling) - API to make poles
+* [Polling-api \[ DRF \]](https://github.com/mnogom/polling-api) - API to make poles
 * [PathFinder \[ Python \]](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image
 * [proxy-tm \[ Flask \]](https://github.com/mnogom/proxy-tm) - Custom™ proxy for news.ycombinator.com
 
