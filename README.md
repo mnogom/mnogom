@@ -26,4 +26,4 @@
 
 ### 📇 Contacts
 * telegram: [@mnogo_m](https://t.me/mnogo_m)
-* e-mail: freidlinks@ya.ru | konstantin.freidlin@aloy.xyz
+* e-mail: freidlinks@ya.ru
