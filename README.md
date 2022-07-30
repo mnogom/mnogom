@@ -16,7 +16,7 @@
 * Brain Games \[ [Python](https://github.com/mnogom/python-project-lvl1) | [JavaScript](https://github.com/mnogom/frontend-project-lvl1) \] - Console text games: even, calc, GCD, progression, prime
 * Difference generator \[ [Python](https://github.com/mnogom/python-project-lvl2) | [JavaScript](https://github.com/mnogom/frontend-project-lvl2) \] - Console utility to find difference between two trees in JSON or YAML format
 * [Page loader \[ Python \]](https://github.com/mnogom/python-project-lvl3) - Console utility to download page with assets
-* [Task Manager \[ Django \]](https://github.com/mnogom/python-project-lvl4) - Task manager (build with DJANGO)
+* [Task Manager \[ Django \]](https://github.com/mnogom/python-project-lvl4) - [Task manager](https://hidden-bayou-30395.herokuapp.com/)
 
 ### 📄 [Snippets](https://gist.github.com/mnogom)
 <!-- * [Middleware \[ Django \]](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py)  to apply to request/response unique id and trace through selected apps - refactoring required -->
