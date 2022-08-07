@@ -10,6 +10,7 @@
 * [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
 * [proxy-tm \[ Flask \]](https://github.com/mnogom/proxy-tm) - Custom™ proxy for news.ycombinator.com
 * [Beag \[ Python \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server
+* [wats \[ Python \]](https://github.com/mnogom/what-about-the-size) - Utility to recursively explore file sizes in directory
 * [Polling-api \[ DRF \]](https://github.com/mnogom/polling-api) - API to make poles
 
 ### 🎓 Educational projects:
