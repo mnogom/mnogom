@@ -13,7 +13,8 @@
 * [Beag \[ Python \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server
 * [wats \[ Python \]](https://github.com/mnogom/what-about-the-size) - Utility to recursively explore file sizes in directory
 * [Polling-api \[ DRF \]](https://github.com/mnogom/polling-api) - API to make poles
-* [FizzBuzz \[Python\]](https://github.com/mnogom/FizzBuzz) - Console utility to convert number to FizzBuzz notation
+* [FizzBuzz \[ Python \]](https://github.com/mnogom/FizzBuzz) - Console utility to convert number to FizzBuzz notation
+* [sea-battle \[ Python \]](https://github.com/mnogom/sea-battle) - Console game "Sea battle" with ~~library "random"~~ AI!
 
 ### 🎓 Educational projects:
 * Brain Games \[ [Python](https://github.com/mnogom/python-project-lvl1) | [JavaScript](https://github.com/mnogom/frontend-project-lvl1) \] - Console text games: even, calc, GCD, progression, prime
