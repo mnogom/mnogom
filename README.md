@@ -9,9 +9,6 @@
 * Difference generator \[ [Python](https://github.com/mnogom/python-project-lvl2) | [JavaScript](https://github.com/mnogom/frontend-project-lvl2) \] - Console utility to find difference between two trees in JSON or YAML format
 * Brain Games \[ [Python](https://github.com/mnogom/python-project-lvl1) | [JavaScript](https://github.com/mnogom/frontend-project-lvl1) \] - Console text games: even, calc, GCD, progression, prime
 
-### 📓 Cheat sheets:
-* [_empty](https://github.com/mnogom/_empty) - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
-
 ### 🧷 Test projects:
 * [PathFinder \[ Python \]](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image
 * [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
@@ -21,6 +18,9 @@
 * [Polling-api \[ DRF \]](https://github.com/mnogom/polling-api) - API to make poles
 * [FizzBuzz \[ Python \]](https://github.com/mnogom/FizzBuzz) - Console utility to convert number to FizzBuzz notation
 * [sea-battle \[ Python \]](https://github.com/mnogom/sea-battle) - Console game "Sea battle" with ~~library "random"~~ AI!
+
+### 📓 Cheat sheets:
+* [_empty](https://github.com/mnogom/_empty) - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
 
 ### 📄 [Snippets](https://gist.github.com/mnogom)
 <!-- * [Middleware \[ Django \]](https://github.com/mnogom/_empty/blob/283002ac15a0d5c324f04a2b3a5d72171425b093/backend/backend/backend/middleware/trace_middleware.py)  to apply to request/response unique id and trace through selected apps - refactoring required -->
