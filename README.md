@@ -10,14 +10,16 @@
 * Brain Games \[ [Python](https://github.com/mnogom/python-project-lvl1) | [JavaScript](https://github.com/mnogom/frontend-project-lvl1) \] - Console text games: even, calc, GCD, progression, prime
 
 ### 🧷 Test projects:
+* [sea-battle \[ Python \]](https://github.com/mnogom/sea-battle) - Console game "Sea battle" with ~~library "random"~~ AI!
+* [FizzBuzz \[ Python \]](https://github.com/mnogom/FizzBuzz) - Console utility to convert number to FizzBuzz notation
 * [PathFinder \[ Python \]](https://github.com/mnogom/pathfinder) - Console utility to find path on RGB image
-* [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
 * [proxy-tm \[ Flask \]](https://github.com/mnogom/proxy-tm) - Custom™ proxy for news.ycombinator.com
+* [DropIt \[ Python \]](https://github.com/mnogom/dropit) - Console utility to get/put file from/to Dropbox with using only official Dropbox API
 * [Beag \[ Python \]](https://github.com/mnogom/beget-agent) - Send project throught SFTP to remote server
 * [wats \[ Python \]](https://github.com/mnogom/what-about-the-size) - Utility to recursively explore file sizes in directory
 * [Polling-api \[ DRF \]](https://github.com/mnogom/polling-api) - API to make poles
-* [FizzBuzz \[ Python \]](https://github.com/mnogom/FizzBuzz) - Console utility to convert number to FizzBuzz notation
-* [sea-battle \[ Python \]](https://github.com/mnogom/sea-battle) - Console game "Sea battle" with ~~library "random"~~ AI!
+
+
 
 ### 📓 Cheat sheets:
 * [_empty](https://github.com/mnogom/_empty) - Junior cheat sheet for fullstack project - IN PROGRESS [DRF + Vue]
