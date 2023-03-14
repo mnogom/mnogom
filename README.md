@@ -4,6 +4,7 @@
 * [Task Manager \[ Django Rest Framework\]](https://github.com/mnogom/task_manager) - Task manager API
 
 ### 🎓 Educational projects:
+* [Simple task tracker \[ FastAPI, ~ \]](https://github.com/mnogom/simple-task-tracker) - Another task tracker. Needed to get a feel for FastAPI, Pydantic, SQLAlchemy, Alembic and React for frontend (or Vue.js 3 again). One day I will finish it. One day...
 * [Task Manager \[ Django \]](https://github.com/mnogom/python-project-lvl4) - [Task manager](https://hidden-bayou-30395.herokuapp.com/)
 * [Page loader \[ Python \]](https://github.com/mnogom/python-project-lvl3) - Console utility to download page with assets
 * Difference generator \[ [Python](https://github.com/mnogom/python-project-lvl2) | [JavaScript](https://github.com/mnogom/frontend-project-lvl2) \] - Console utility to find difference between two trees in JSON or YAML format
