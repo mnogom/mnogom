@@ -1,5 +1,5 @@
 ### 😽 Pet projects:
-* [freidl.in](http://freidl.in) \[ [Python](https://github.com/mnogom/bash-backend),  [Frontend](https://github.com/mnogom/bash-frontend) \] - Personal site
+* [freidl.in](http://freidl.in) \[ [Backend](https://github.com/mnogom/bash-backend),  [Frontend](https://github.com/mnogom/bash-frontend) \] - Personal site
 * [Minesweeper \[ Flask, Vue \]](https://mine.aloy.xyz) - TBD. I'm so embarrassed, but in 2018 I did [this](https://github.com/mnogom/minesweeper). My first web project. I'll rewrite it.
 * [Project scenes \[ Django, Vue \]](https://scene.aloy.xyz/) - Project that can help you interactively create and show light scenarios. Works with CI/CD. For now for CD I wrote [Beag \[ Python \]](https://github.com/mnogom/beget-agent) utility
 * [Task Manager \[ Django Rest Framework\]](https://github.com/mnogom/task_manager) - Task manager API
